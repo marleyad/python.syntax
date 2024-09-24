@@ -1,11 +1,13 @@
 def sum_nums(nums):
-    """Given list of numbers, return sum of those numbers.
+    """
+    Given a list of numbers, return the sum of those numbers.
 
     For example:
       sum_nums([1, 2, 3, 4])
 
     Should return (not print):
       10
+
     """  
 
     # Python has a built-in function `sum()` for this, but we don't
